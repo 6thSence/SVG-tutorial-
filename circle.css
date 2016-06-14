@@ -14,6 +14,7 @@
             stroke: #dfdcd5;
             stroke-width: 20;
             stroke-dasharray: 314px 314px;
+            transition: stroke-dasharray .8s;
             }
 
         circle:nth-child(2n) {
